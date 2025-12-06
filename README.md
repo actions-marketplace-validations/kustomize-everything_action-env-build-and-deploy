@@ -1,6 +1,8 @@
 # action-env-build-and-diff
 
-Build and diff a Kustomize Environment overlay with GitHub Actions
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/44667) [![CodeScene Code Health](https://codescene.io/projects/44667/status-badges/code-health)](https://codescene.io/projects/44667)
+
+Build and diff a Kustomize Environment overlay with GitHub Actions. Another FOSS tool that enables a similar workflow is [Bookkeeper](https://bookkeeper.akuity.io/) from [Akuity](https://akuity.io/).
 
 ## Usage
 
